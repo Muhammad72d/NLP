@@ -33,11 +33,11 @@ The main objective is to build a pipeline that **detects entities in raw Arabic 
 
 ---
 ## modules
-- matplotlib.pyplot
-- AutoTokenizer
-- AutoModelForTokenClassification
-- AutoModelForSeq2SeqLM
-- pipeline
-- pandas
-- os
+- **matplotlib.pyplot**
+- **AutoTokenizer**
+- **AutoModelForTokenClassification**
+- **AutoModelForSeq2SeqLM**
+- **pipeline**
+- **pandas**
+- **os**
 ---
